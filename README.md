@@ -43,9 +43,7 @@ AI Engineer with a strong background in deep learning, computer vision, and auto
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbaCollaku&theme=tokyonight" alt="GitHub Streak" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaCollaku&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
@@ -53,7 +51,7 @@ AI Engineer with a strong background in deep learning, computer vision, and auto
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/AlbaCollaku">
+  <a href="https://github.com/6rdxx">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/AlbaCollaku">
