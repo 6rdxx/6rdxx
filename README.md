@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Alba Çollaku!
-
+# 👋 Hi, I'm Alba!
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=AI+Engineer;Deep+Learning+Specialist;Web+Developer;Problem+Solver;Cloud+Enthusiast" alt="Typing SVG">
 
 ## 🚀 About Me
